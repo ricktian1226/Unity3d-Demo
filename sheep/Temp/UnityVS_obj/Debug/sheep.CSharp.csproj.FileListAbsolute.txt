@@ -1,0 +1,17 @@
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\Mono.Cecil.dll
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\Mono.Cecil.xml
+E:\UnityProjects\sheep\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\UnityProjects\sheep\Temp\UnityVS_obj\Debug\sheep.CSharp.csprojResolveAssemblyReference.cache
+E:\UnityProjects\sheep\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+E:\UnityProjects\sheep\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
